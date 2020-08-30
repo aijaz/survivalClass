@@ -22,6 +22,8 @@
         * Sheet bend vs square knot
         * Truckers hitch (with bell-ringers knot)
         * Tautline hitch
+        * Tying a ridge line version 1
+    + Knots 2
         * Clove hitch: over itself, and under itself
         * Heaving line knot
         * Manharness knot
@@ -31,6 +33,7 @@
         * Constrictor knot (learn this)
         * Halter hitch
         * Fireman's chair knot
+        * Tying a ridge line version 2
 - Camping
     + Food safety
     + Bear-safe campsites
