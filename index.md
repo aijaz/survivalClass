@@ -18,27 +18,44 @@
         * Overhand knot
         * Half hitch
         * Bowline - 40%
+            - Can't be tied under strain
         * Double bowline - 70 - 75%
         * Sheet bend vs square knot
         * Truckers hitch (with bell-ringers knot)
         * Tautline hitch
-        * Tying a ridge line version 1
+        * Stopper knot. Fishermans? https://youtu.be/Sipxc4jFI9s?t=189
+        * Tying a ridge line version 1 - corporal's corner
+            - https://www.youtube.com/watch?v=Sipxc4jFI9s
+        * Hanking https://youtu.be/Sipxc4jFI9s?t=316
     + Knots 2
         * Clove hitch: over itself, and under itself
+            - https://youtu.be/Sipxc4jFI9s?t=391
+            - https://youtu.be/4f9ZpkuNxlY?t=430
         * Heaving line knot
         * Manharness knot
         * Handcuff knot
-        * Alpine butterfly for retrieving climbing rope
-        * Prusik knot with warning or friction or dangling
+        * Alpine butterfly for retrieving climbing rope https://www.youtube.com/watch?v=dY33TPXTZN4
+        * Prusik knot with warning for friction or dangling
         * Constrictor knot (learn this)
         * Halter hitch
         * Fireman's chair knot
-        * Tying a ridge line version 2
+        * Tying a ridge line version 2 - captain corner quick release
+        * Tripod lash
+    + Knots 3
+        * Rolling Hitch https://www.outdoorlife.com/photos/gallery/hunting/2012/02/essential-knots-how-tie-20-knots-will-keep-you-alive/
+        * Tripod hitch https://www.outdoorlife.com/photos/gallery/hunting/2012/02/essential-knots-how-tie-20-knots-will-keep-you-alive/
+        * Candian Jam tightening knot: https://www.youtube.com/watch?v=SQE35yfeiHc
+        * Patrol Dining Tent setup https://www.youtube.com/watch?time_continue=77&v=U5I_4FiEIZs
+        * Shear lash like tripod: https://www.youtube.com/watch?v=x5w0aZu2dhk
+        * Square Lash https://youtu.be/4f9ZpkuNxlY
+        * Marlinspike Hitch Laddder https://www.youtube.com/watch?v=ZOWvDSz9CCc
 - Camping
     + Food safety
     + Bear-safe campsites
+    + [Keeping your pack of the ground](https://www.youtube.com/watch?v=J8p0v1Jfkkg) with a marlinspike hitch
     + Drinking water
     + Starting campfires safely
+    + LeanTo: http://www.practicalsurvivor.com/leanto
 - Orienteering and Navigation
     + Compass use
     + Signaling Mirros
@@ -49,3 +66,33 @@
     + Delegation
     + Replacing a flat
 
+
+[This video](https://www.youtube.com/watch?v=9P5JrKoemKk) has 
+  - 1-handed bowline
+  - Prusik
+  - Handcuff
+  - Harness
+
+[This video](https://www.youtube.com/watch?v=0yfFo0-1u1M) has 
+  - Truckers Hitch
+  - Good bowline
+
+Second way to tie a bowline: 
+https://youtu.be/x5w0aZu2dhk?t=159
+https://youtu.be/4f9ZpkuNxlY?t=110
+Also 
+https://www.youtube.com/watch?v=BiqHyu1ixVI
+Running bowline with one end only: https://youtu.be/BiqHyu1ixVI?t=357
+Bowline around someone else: https://youtu.be/BiqHyu1ixVI?t=620
+Bowlne around yourself: 
+
+CLove hitch under tension
+https://youtu.be/4f9ZpkuNxlY?t=430
+
+More Clove Hitches:
+https://scoutpioneering.com/tag/right-underhand-loop/
+https://scoutpioneering.com/2013/04/01/the-misunderstood-clove-hitch/
+
+
+
+Kiwi Co for kids kiwico.com
