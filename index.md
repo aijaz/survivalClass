@@ -21,11 +21,14 @@
             - Can't be tied under strain
         * Double bowline - 70 - 75%
         * Sheet bend vs square knot
+        * Siberian hitch
         * Truckers hitch (with bell-ringers knot)
         * Tautline hitch
         * Stopper knot. Fishermans? https://youtu.be/Sipxc4jFI9s?t=189
         * Tying a ridge line version 1 - corporal's corner
             - https://www.youtube.com/watch?v=Sipxc4jFI9s
+        * Alternate ridge line without bowline or trucker's hitch - might be easier: 
+            - https://youtu.be/Ajl5F6iUZ_s?t=385 - first side with end loop
         * Hanking https://youtu.be/Sipxc4jFI9s?t=316
     + Knots 2
         * Clove hitch: over itself, and under itself
@@ -40,6 +43,7 @@
         * Halter hitch
         * Fireman's chair knot
         * Tying a ridge line version 2 - captain corner quick release
+            - Pre-prepped ridge line: https://www.youtube.com/watch?v=LJKAjOiOmqs
         * Tripod lash
     + Knots 3
         * Rolling Hitch https://www.outdoorlife.com/photos/gallery/hunting/2012/02/essential-knots-how-tie-20-knots-will-keep-you-alive/
@@ -48,7 +52,8 @@
         * Patrol Dining Tent setup https://www.youtube.com/watch?time_continue=77&v=U5I_4FiEIZs
         * Shear lash like tripod: https://www.youtube.com/watch?v=x5w0aZu2dhk
         * Square Lash https://youtu.be/4f9ZpkuNxlY
-        * Marlinspike Hitch Laddder https://www.youtube.com/watch?v=ZOWvDSz9CCc
+        * Marlinspike Hitch Ladder https://www.youtube.com/watch?v=ZOWvDSz9CCc
+        * Kalmyk Loop: https://www.youtube.com/watch?v=Ug9-l8JW5J8
 - Camping
     + Food safety
     + Bear-safe campsites
@@ -96,3 +101,9 @@ https://scoutpioneering.com/2013/04/01/the-misunderstood-clove-hitch/
 
 
 Kiwi Co for kids kiwico.com
+
+
+Simple truckers hitch video: https://youtu.be/W86XNUmElP4
+Truckers hitch reference, with tension preserving: https://www.youtube.com/watch?v=VUerD-QvFnc (Corporal corner)
+
+
